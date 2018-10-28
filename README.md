@@ -5,4 +5,4 @@ Group projects and personal work created during university courses at the KTH Ro
 | Course Code | Course Name | Date |
 | --- | --- | --- |
 | `ID1354` | Internet Applications | Fall semester, 2018 |
-| `git diff` | Show file differences that **haven't been** staged | n/a |
+| `IV1351` | Data Storage | Fall semester, 2018 |
